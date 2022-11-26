@@ -1,0 +1,1 @@
+echo fetch.js
